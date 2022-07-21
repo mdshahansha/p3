@@ -18,7 +18,7 @@ class App extends React.Component
             change_in_angle: 0,
             selected: 0,
             showPage: -1,
-            general_menu: ['Games', 'Music', 'Settings', 'Cover Flow'],
+            general_menu: ['Games', 'Music', 'Settings', 'Covers Flow'],
             songs_sub_menu: ['All Songs', 'Artists', 'Albums'],
             current_music_selection: 0,
             song_index: -1,
